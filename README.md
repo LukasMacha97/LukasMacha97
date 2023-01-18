@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href=https://img.shields.io/badge/AAPS%20CDT%20Enrichment%20Award-Coding%20and%20Big%20Data-blue></a>
+<a href="https://img.shields.io/badge/AAPS%20CDT%20Enrichment%20Award-Coding%20and%20Big%20Data-blue"></a>
