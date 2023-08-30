@@ -10,7 +10,7 @@ Through leveraging Model-Based Systems Engineering (MBSE) and the Systems Modell
 4) Encouraging agile enrichment of traditional development processes, promoting flexibility and responsiveness in the face of change.
 5) Developing processes, methods, and tools for truly consistent system development approaches, ensuring uniformity and coherence across projects.
 
-I strive to blend academic theory with practical applications, emphasizing the convergence of digital and real-world testing methodologies. My research promises to redefine conventional vehicle development, enhancing efficiency, reducing costs, and accelerating delivery timelines through frontloading - minimal need for physical prototypes. 
+I strive to blend academic theory with practical applications, emphasizing the convergence of digital and real-world testing methodologies. My research promises to redefine conventional vehicle development, enhancing efficiency, reducing costs, and accelerating delivery timelines through frontloading of rigorous testing and validation activities - minimizing the need for physical prototypes and physical testing. 
 
 With my unique blend of skills and experience, I am ready to contribute meaningfully to a progressive technology, driving innovation and elevating product development standards.
 <!--
