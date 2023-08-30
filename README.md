@@ -1,6 +1,6 @@
 ## Hi 👋, I am Lukas Macha
 
-I am a DIYer, tinkerer, self-taught roboticist, father, avid reader and a PhD student. Currently, I spend most of my time revolutionizing validation of complex, software-intensive systems as part of my PhD research at the University of Bath, UK.
+I am a DIYer, tinkerer, self-taught roboticist, dad, avid reader and a PhD student. Currently, I spend most of my time revolutionizing validation of complex, software-intensive systems as part of my PhD research at the University of Bath, UK.
 
 Through leveraging Model-Based Systems Engineering (MBSE) and the Systems Modelling Language (SysML), my research tackles key challenges in the field:
 
